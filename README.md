@@ -64,6 +64,6 @@ npm install
 npm start
 
 
-The application will run at:
+The application will run locally at:
 
 http://localhost:3000
